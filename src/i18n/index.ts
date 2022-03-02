@@ -4,6 +4,7 @@ import es from './es'
 import pl from './pl'
 import fr from './fr'
 import uk from './uk'
+import pt from './pt'
 import ptbr from './ptbr'
 import tr from './tr'
 import he from './he'
@@ -29,6 +30,7 @@ export const dictionary = {
   pl,
   fr,
   uk,
+  pt,
   ptbr,
   tr,
   he,
